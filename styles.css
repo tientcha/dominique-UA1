@@ -1,0 +1,53 @@
+body {
+margin: 0 auto;
+}
+/* tête de page */
+
+header.Entête {
+    display: flex;
+    align-items: center;
+}
+
+section.pages {
+    background: url('../images/atelier.jpg');
+    background-size: cover;
+    height: 200vh;
+    padding: 25px;
+}
+/* bienvenue */
+
+.grand-titre {
+    font-size: 150px;
+    padding: 25px;
+}
+
+/* /MENU DE NAVIGATION */
+
+nav.Navigation {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 2000px;
+    margin-left: 300px;
+}
+
+nav.Navigation {
+    
+}
+
+/* pieds de page */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 100px;
+    font-weight: 600;
+
+}
+
+footer a.Mail {
+    text-decoration: none;
+    color: black;
+}
+
+a-fr
